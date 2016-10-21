@@ -1,2 +1,19 @@
-# blogTest
-Es una proyecto de prueba para entender la administración de un proyecti
+blogTest
+
+[Descripción del proyecto]
+
+[Instalación]
+- Requisitos
+- Versión
+- Encargados del proyecto
+
+[Uso]
+
+
+[Documentación]
+
+
+[Roadmap]
+
+
+[Licencia]
